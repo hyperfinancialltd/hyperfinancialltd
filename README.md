@@ -26,53 +26,68 @@
 
 **Frameworks & Libraries**
 
-![Next.js](https://img.shields.io/badge/-Next.js_13/14-000000?style=flat-square&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js_13/14/15-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React_18/19-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Hono](https://img.shields.io/badge/-Hono-E36002?style=flat-square&logo=hono&logoColor=white)
+![Effect-TS](https://img.shields.io/badge/-Effect--TS-000000?style=flat-square&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/-Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
 ![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Recharts](https://img.shields.io/badge/-Recharts-22B5BF?style=flat-square&logoColor=white)
+![MDX](https://img.shields.io/badge/-MDX-1B1F24?style=flat-square&logo=mdx&logoColor=white)
 
 **Backend & Database**
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Deno](https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=white)
-![Hono](https://img.shields.io/badge/-Hono-E36002?style=flat-square&logo=hono&logoColor=white)
 ![tRPC](https://img.shields.io/badge/-tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/-Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis/Upstash-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Meilisearch](https://img.shields.io/badge/-Meilisearch-FF5CAA?style=flat-square&logo=meilisearch&logoColor=white)
+![Inngest](https://img.shields.io/badge/-Inngest-4636F5?style=flat-square&logoColor=white)
+![BullMQ](https://img.shields.io/badge/-BullMQ-E4405F?style=flat-square&logoColor=white)
 
 **Payment & Web3**
 
-![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe_Connect-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/-BTC/LTC-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/-ETH/BSC/ARB/MATIC-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![USDT](https://img.shields.io/badge/-USDT/USDC-26A17B?style=flat-square&logo=tether&logoColor=white)
+![VNPay](https://img.shields.io/badge/-VNPay-005BAA?style=flat-square&logoColor=white)
+![MoMo](https://img.shields.io/badge/-MoMo-A50064?style=flat-square&logoColor=white)
 
-**DevOps & Tools**
+**DevOps, Testing & Monitoring**
 
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare_Workers/R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux_VPS-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Turborepo](https://img.shields.io/badge/-Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
 ![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![PostHog](https://img.shields.io/badge/-PostHog-F54E00?style=flat-square&logo=posthog&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+![Biome](https://img.shields.io/badge/-Biome-60A5FA?style=flat-square&logo=biome&logoColor=white)
 
 ---
 
 ### 🚀 What I'm Working On
 
 <details>
-<summary><b>hyper-ecommerce</b> — Full-Stack E-commerce Platform</summary>
+<summary><b><a href="https://resync.club">hyper-ecommerce</a></b> — Full-Stack E-commerce Platform</summary>
 <br>
 
 Production e-commerce platform serving 2.3k+ users with multi-gateway payments and comprehensive security.
@@ -90,7 +105,7 @@ Production e-commerce platform serving 2.3k+ users with multi-gateway payments a
 </details>
 
 <details>
-<summary><b>milounet</b> — Contact Lens E-commerce Store</summary>
+<summary><b><a href="https://milounet.com">milounet</a></b> — Contact Lens E-commerce Store</summary>
 <br>
 
 Full-stack e-commerce platform for contact lenses with shipping automation and VietQR payments.
@@ -107,7 +122,7 @@ Full-stack e-commerce platform for contact lenses with shipping automation and V
 </details>
 
 <details>
-<summary><b>nfawhitelabel</b> — Digital Goods Reseller Platform</summary>
+<summary><b><a href="https://nfa.resync.club">nfawhitelabel</a></b> — Digital Goods Reseller Platform</summary>
 <br>
 
 Multi-tenant platform for digital goods (game accounts) deployed across 3 Linux VPS instances.
@@ -167,22 +182,26 @@ Marketplace for licensed downloadable software, plugins & themes. Dual market: V
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hyperfinancialltd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyperfinancialltd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hyperfinancialltd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hyperfinancialltd&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hyperfinancialltd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hyperfinancialltd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hyperfinancialltd&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyperfinancialltd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</picture>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hyperfinancialltd&theme=tokyonight&hide_border=true)](https://github.com/hyperfinancialltd)
-
-</div>
-
----
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hyperfinancialltd&theme=tokyo-night&hide_border=true&area=true)](https://github.com/hyperfinancialltd)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hyperfinancialltd&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=hyperfinancialltd&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=hyperfinancialltd&theme=tokyonight&hide_border=true" />
+</picture>
 
 </div>
 

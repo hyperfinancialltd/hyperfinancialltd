@@ -4,7 +4,7 @@
 
 # Hey, I'm Resync.K 👋
 
-**Software Engineer** | Full-Stack Developer | Building production systems that scale
+**Software Engineer** | Full-Stack Developer | Reverse Engineer | Building production systems that scale
 
 </div>
 
@@ -15,6 +15,7 @@
 **Languages**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -100,6 +101,19 @@
 ![Grafana](https://img.shields.io/badge/-Grafana_Tempo-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Axiom](https://img.shields.io/badge/-Axiom/Better_Stack-001E5A?style=flat-square&logoColor=white)
 
+**Desktop & Systems**
+
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![egui/eframe](https://img.shields.io/badge/-egui/eframe-1E1E2E?style=flat-square&logoColor=white)
+![Win32 API](https://img.shields.io/badge/-Win32_API/DPAPI-0078D4?style=flat-square&logo=windows&logoColor=white)
+![FFI](https://img.shields.io/badge/-FFI/unsafe_Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+**Reverse Engineering & Software Protection**
+
+![IDA Pro](https://img.shields.io/badge/-IDA_Pro-4B0082?style=flat-square&logoColor=white)
+![Themida](https://img.shields.io/badge/-Themida-CC0000?style=flat-square&logoColor=white)
+![VMProtect](https://img.shields.io/badge/-VMProtect-1A1A2E?style=flat-square&logoColor=white)
+
 **3rd-party Integrations**
 
 ![Discord](https://img.shields.io/badge/-Discord_Bot/OAuth-5865F2?style=flat-square&logo=discord&logoColor=white)
@@ -160,6 +174,23 @@ Multi-tenant platform for digital goods (game accounts) deployed across 3 Linux 
 | **Payments** | NowPayments (crypto gateway) |
 | **Integrations** | Steam Web API, Steam Client (Chrome DevTools Protocol automation) |
 | **Infra** | 3x Linux VPS, systemd process management, .env secret management |
+
+</details>
+
+<details>
+<summary><b>Steam Account Manager</b> — Desktop Tool (Rust)</summary>
+<br>
+
+Desktop GUI app for token-based Steam login — reverse-engineered Steam client internals to bypass username/password flow.
+
+| Layer | Technologies |
+|-------|-------------|
+| **Language** | Rust (unsafe FFI, multi-threading, pattern matching state machine) |
+| **GUI** | egui/eframe — immediate-mode UI, custom frameless window, drag-to-move |
+| **Windows** | Win32 API (DPAPI CryptProtectData for token encryption), Windows Registry read/write, process management (taskkill/spawn) |
+| **Networking** | reqwest (HTTP client), serde/serde_json, REST API integration |
+| **Reverse Engineering** | Valve VDF format parsing & injection (config.vdf, loginusers.vdf, local.vdf), JWT decode (base64url payload), CRC32 username hashing |
+| **Concurrency** | std::thread + mpsc channels for non-blocking UI |
 
 </details>
 

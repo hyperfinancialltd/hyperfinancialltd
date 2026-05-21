@@ -52,12 +52,6 @@ Pursuing a Master's degree (expected 2027). Currently looking for a full enginee
 ![Jinja2](https://img.shields.io/badge/-Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white)
 ![Hono](https://img.shields.io/badge/-Hono-E36002?style=flat-square&logo=hono&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/-OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)
-![Google](https://img.shields.io/badge/-Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub_OAuth-181717?style=flat-square&logo=github&logoColor=white)
-![Discord](https://img.shields.io/badge/-Discord_OAuth-5865F2?style=flat-square&logo=discord&logoColor=white)
-![Facebook](https://img.shields.io/badge/-Facebook_OAuth-1877F2?style=flat-square&logo=facebook&logoColor=white)
-![Apple](https://img.shields.io/badge/-Apple_OAuth-000000?style=flat-square&logo=apple&logoColor=white)
 ![tRPC](https://img.shields.io/badge/-tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
 ![Effect-TS](https://img.shields.io/badge/-Effect--TS-8B5CF6?style=flat-square&logoColor=white)
 ![Inngest](https://img.shields.io/badge/-Inngest-4636F5?style=flat-square&logoColor=white)
@@ -136,7 +130,11 @@ Pursuing a Master's degree (expected 2027). Currently looking for a full enginee
 
 **3rd-party Integrations**
 
+![Google OAuth](https://img.shields.io/badge/-Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
+![GitHub OAuth](https://img.shields.io/badge/-GitHub_OAuth-181717?style=flat-square&logo=github&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord_Bot/OAuth-5865F2?style=flat-square&logo=discord&logoColor=white)
+![Facebook OAuth](https://img.shields.io/badge/-Facebook_OAuth-1877F2?style=flat-square&logo=facebook&logoColor=white)
+![Apple OAuth](https://img.shields.io/badge/-Apple_OAuth-000000?style=flat-square&logo=apple&logoColor=white)
 ![Steam](https://img.shields.io/badge/-Steam_Web_API/CDP-000000?style=flat-square&logo=steam&logoColor=white)
 ![Instagram](https://img.shields.io/badge/-Instagram_Graph_API-E4405F?style=flat-square&logo=instagram&logoColor=white)
 ![GHN](https://img.shields.io/badge/-GHN_Shipping_API-FF6600?style=flat-square&logoColor=white)

@@ -203,35 +203,6 @@ Marketplace for licensed downloadable software, plugins & themes. Dual market: V
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hyperfinancialltd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hyperfinancialltd&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hyperfinancialltd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hyperfinancialltd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hyperfinancialltd&layout=compact&theme=default&hide_border=true&langs_count=8" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyperfinancialltd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</picture>
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hyperfinancialltd&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=hyperfinancialltd&theme=default&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=hyperfinancialltd&theme=tokyonight&hide_border=true" />
-</picture>
-
-</div>
-
----
-
 <div align="center">
   <i>Open to collaborate on interesting projects.</i>
 </div>

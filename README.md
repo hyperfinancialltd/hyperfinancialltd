@@ -233,10 +233,10 @@ Platform for hiring players for duo/rank boost services in League of Legends.
 </details>
 
 <details>
-<summary><b>digitalplatform</b> — Digital Marketplace (CodeCanyon/Envato-style)</summary>
+<summary><b>digitalplatform</b> — Digital Marketplace (CodeCanyon/Envato-style) · <i>Closed Beta</i></summary>
 <br>
 
-Marketplace for licensed downloadable software, plugins & themes. Dual market: Vietnam + International. Modular monolith designed for future microservice extraction.
+The go-to platform for creators, SaaS builders, and designers to sell digital products, process payments, minimize fraud, and scale their online presence, built for both Vietnam and international markets.
 
 | Layer | Technologies |
 |-------|-------------|

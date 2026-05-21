@@ -124,7 +124,7 @@
 
 ---
 
-### 🚀 What I'm Working On
+### 🏗️ Built
 
 <details>
 <summary><b><a href="https://resync.club">hyper-ecommerce</a></b> — Full-Stack E-commerce Platform</summary>
@@ -194,6 +194,10 @@ Desktop GUI app for token-based Steam login — reverse-engineered Steam client 
 | **Concurrency** | std::thread + mpsc channels for non-blocking UI |
 
 </details>
+
+---
+
+### 🚀 In Progress
 
 <details>
 <summary><b>bookingplayer</b> — PlayerDuo-style Booking Platform</summary>

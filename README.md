@@ -145,10 +145,10 @@ Pursuing a Master's degree (expected 2027). Currently looking for a full enginee
 ### 🏗️ Built
 
 <details>
-<summary><b><a href="https://resync.club">resync</a></b> — Full-Stack E-commerce Platform</summary>
+<summary><b><a href="https://resync.club">resync</a></b> — License E-commerce Platform</summary>
 <br>
 
-Production e-commerce platform serving 2.3k+ users with multi-gateway payments and comprehensive security.
+Production e-commerce platform serving 2.5k+ users, processing 120-200 orders/day with multi-gateway payments and comprehensive security.
 
 | Layer | Technologies |
 |-------|-------------|
@@ -166,7 +166,7 @@ Production e-commerce platform serving 2.3k+ users with multi-gateway payments a
 <summary><b><a href="https://milounet.com">milounet</a></b> — Contact Lens E-commerce Store</summary>
 <br>
 
-Full-stack e-commerce platform for contact lenses with shipping automation and VietQR payments.
+Physical goods e-commerce platform for contact lenses with shipping automation and VietQR payments.
 
 | Layer | Technologies |
 |-------|-------------|

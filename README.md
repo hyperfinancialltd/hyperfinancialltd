@@ -135,7 +135,7 @@ Pursuing a Master's degree (expected 2027). Currently looking for a full enginee
 ### 🏗️ Built
 
 <details>
-<summary><b><a href="https://resync.club">hyper-ecommerce</a></b> — Full-Stack E-commerce Platform</summary>
+<summary><b><a href="https://resync.club">resync</a></b> — Full-Stack E-commerce Platform</summary>
 <br>
 
 Production e-commerce platform serving 2.3k+ users with multi-gateway payments and comprehensive security.
@@ -170,7 +170,7 @@ Full-stack e-commerce platform for contact lenses with shipping automation and V
 </details>
 
 <details>
-<summary><b><a href="https://nfa.resync.club">nfawhitelabel</a></b> — Digital Goods Reseller Platform</summary>
+<summary><b><a href="https://nfa.resync.club">nfareplacement</a></b> — Digital Goods Reseller Platform</summary>
 <br>
 
 Multi-tenant platform for digital goods (game accounts) deployed across 3 Linux VPS instances.

@@ -4,7 +4,7 @@
 
 # Hey, I'm Resync.K 👋
 
-**Software Engineer** | Building products that matter
+**Software Engineer** | Full-Stack Developer | Building production systems that scale
 
 </div>
 
@@ -16,43 +16,150 @@
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C%23](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=amazondocumentdb&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Frameworks & Libraries**
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js_13/14-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React_18/19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Radix UI](https://img.shields.io/badge/-Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/-Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
+![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
 **Backend & Database**
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Deno](https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=white)
+![Hono](https://img.shields.io/badge/-Hono-E36002?style=flat-square&logo=hono&logoColor=white)
+![tRPC](https://img.shields.io/badge/-tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
+![Drizzle](https://img.shields.io/badge/-Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-**Tools & Infra**
+**Payment & Web3**
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/-BTC/LTC-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
+![Ethereum](https://img.shields.io/badge/-ETH/BSC/ARB/MATIC-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![USDT](https://img.shields.io/badge/-USDT/USDC-26A17B?style=flat-square&logo=tether&logoColor=white)
+
+**DevOps & Tools**
+
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux_VPS-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Turborepo](https://img.shields.io/badge/-Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
 ---
 
 ### 🚀 What I'm Working On
 
-| Project | Tech Stack | Description |
-|---------|-----------|-------------|
-| **bookingplayer** | Next.js, React 19, TypeScript, Tailwind CSS, Supabase | PlayerDuo-style platform - hire players for duo/rank boost in LoL |
-| **digitalplatform** | Next.js, TypeScript, Supabase, Stripe | Digital marketplace for licensed software, plugins & themes |
-| **hyper-ecommerce** | TypeScript, Next.js | E-commerce platform |
-| **nfawhitelabel** | Python, Flask, Supabase | Resync.club - account replacement & reseller platform |
-| **milounet** | TypeScript | Web application |
+<details>
+<summary><b>hyper-ecommerce</b> — Full-Stack E-commerce Platform</summary>
+<br>
+
+Production e-commerce platform serving 2.3k+ users with multi-gateway payments and comprehensive security.
+
+| Layer | Technologies |
+|-------|-------------|
+| **Frontend** | Next.js 13 (App Router), React 18, TypeScript 5, TailwindCSS, shadcn/ui (24+ components), Recharts, React Hook Form + Zod |
+| **Backend** | Next.js API Routes, Supabase Edge Functions (19 Deno functions) |
+| **Database** | PostgreSQL 17, 47 tables with RLS, 80+ PL/pgSQL stored procedures, pg_cron (16+ scheduled jobs), pg_net |
+| **Payments** | Stripe (Checkout + webhooks + dispute handling), Multi-chain crypto (BTC, LTC, USDT/USDC on ETH/BSC/ARB/MATIC), HD wallet xpub derivation |
+| **Security** | OAuth 2.0 (Discord), HMAC SHA-256, browser fingerprinting (HWID), rate limiting, anti-fraud system, Cloudflare Turnstile, SSRF protection |
+| **Integrations** | Discord Bot API, Etherscan V2, mempool.space, MoneyMotion, Pandabase, SkinsBack |
+| **Infra** | Vercel, Supabase, GitHub Actions |
+
+</details>
+
+<details>
+<summary><b>milounet</b> — Contact Lens E-commerce Store</summary>
+<br>
+
+Full-stack e-commerce platform for contact lenses with shipping automation and VietQR payments.
+
+| Layer | Technologies |
+|-------|-------------|
+| **Frontend** | Next.js 13 (App Router), React 18, TypeScript 5, TailwindCSS, shadcn/ui (25+ Radix primitives), Recharts, Embla Carousel |
+| **Backend** | Next.js API Routes, 7 Supabase Edge Functions (Deno) |
+| **Database** | PostgreSQL (57 migrations), Row Level Security (admin/customer/anonymous), @supabase/ssr cookie-based auth |
+| **Payments** | SePay VietQR (webhook signature verification, auto-reconciliation) |
+| **Integrations** | GHN Shipping API (auto-create shipment + status sync), Instagram Graph API (product image scraping), transactional emails (5 templates) |
+| **Admin** | Order management, product CRUD, profit/revenue charts, referral review, withdrawal processing |
+
+</details>
+
+<details>
+<summary><b>nfawhitelabel</b> — Digital Goods Reseller Platform</summary>
+<br>
+
+Multi-tenant platform for digital goods (game accounts) deployed across 3 Linux VPS instances.
+
+| Layer | Technologies |
+|-------|-------------|
+| **Backend** | Python, Flask REST API, Jinja2, multithreading (worker loops + background jobs) |
+| **Database** | MySQL, row-level locking (FOR UPDATE), complex SQL (CASE/WHEN, subqueries) |
+| **Security** | JWT, HMAC/SHA-256 webhook verification, CSRF tokens, CSP headers, VPN/proxy detection, DPAPI (Windows credential decryption) |
+| **Payments** | NowPayments (crypto gateway) |
+| **Integrations** | Steam Web API, Steam Client (Chrome DevTools Protocol automation) |
+| **Infra** | 3x Linux VPS, systemd process management, .env secret management |
+
+</details>
+
+<details>
+<summary><b>bookingplayer</b> — PlayerDuo-style Booking Platform</summary>
+<br>
+
+Platform for hiring players for duo/rank boost services in League of Legends.
+
+| Layer | Technologies |
+|-------|-------------|
+| **Frontend** | Next.js (App Router), React 19, TypeScript, Tailwind CSS v4, shadcn/ui, Radix UI, Lucide |
+| **Backend** | Supabase (Auth + Realtime + Storage) |
+| **Payments** | VNPay, MoMo, ZaloPay |
+
+</details>
+
+<details>
+<summary><b>digitalplatform</b> — Digital Marketplace (CodeCanyon/Envato-style)</summary>
+<br>
+
+Marketplace for licensed downloadable software, plugins & themes. Dual market: Vietnam + International. Modular monolith designed for future microservice extraction.
+
+| Layer | Technologies |
+|-------|-------------|
+| **Frontend** | Next.js 15 (App Router, RSC + ISR), TypeScript strict, Tailwind v4, shadcn/ui, MDX |
+| **API** | tRPC (internal), REST via Hono (public license/search API), Server Actions |
+| **Backend** | Effect-TS (payment, license, webhooks), Inngest (durable workflows), BullMQ |
+| **Database** | PostgreSQL 16 (Supabase), Drizzle ORM, partitioned tables (orders, downloads, audit logs) |
+| **Edge** | Cloudflare Workers (Hono) — license verification, rate limiting; R2 Storage — product files with signed URLs |
+| **Cache & Search** | Upstash Redis (cache + rate limit + sessions), Meilisearch (self-hosted) |
+| **Payments** | Stripe Connect (multi-vendor payout), VNPay, MoMo |
+| **Security** | License keys (`uuid_v7.hmac_sha256`), webhook signature + idempotency dedup, RLS, 2FA admin, SSRF/CSRF/CSP, presigned uploads with virus scan |
+| **Monitoring** | Sentry, PostHog, OpenTelemetry → Grafana Tempo, Better Stack / Axiom |
+| **Testing** | Vitest + @effect/vitest (unit), Playwright (E2E), k6 (load test) |
+| **Infra** | Vercel (web), Cloudflare Workers (edge), Railway (jobs), pnpm + Turborepo monorepo, Biome, GitHub Actions CI/CD |
+
+**Scaling path:** Supabase free → Pro → self-host Postgres + K8s → microservices + Kafka (10k → 100k → 1M+ DAU)
+
+</details>
 
 ---
 

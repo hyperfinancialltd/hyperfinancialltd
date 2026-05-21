@@ -43,7 +43,9 @@
 ![Deno](https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Jinja2](https://img.shields.io/badge/-Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white)
 ![Hono](https://img.shields.io/badge/-Hono-E36002?style=flat-square&logo=hono&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![tRPC](https://img.shields.io/badge/-tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
 ![Effect-TS](https://img.shields.io/badge/-Effect--TS-8B5CF6?style=flat-square&logoColor=white)
 ![Inngest](https://img.shields.io/badge/-Inngest-4636F5?style=flat-square&logoColor=white)
@@ -169,12 +171,13 @@ Multi-tenant platform for digital goods (game accounts) deployed across 3 Linux 
 
 | Layer | Technologies |
 |-------|-------------|
-| **Backend** | Python, Flask REST API, Jinja2, multithreading (worker loops + background jobs) |
-| **Database** | MySQL, row-level locking (FOR UPDATE), complex SQL (CASE/WHEN, subqueries) |
-| **Security** | JWT, HMAC/SHA-256 webhook verification, CSRF tokens, CSP headers, VPN/proxy detection, DPAPI (Windows credential decryption) |
+| **Backend** | Python, Flask REST API, Jinja2 templating, PyMySQL (transactions/locking), multithreading (worker loops + background jobs) |
+| **Frontend** | HTML/CSS/JavaScript, Vanilla JS (Fetch API, polling, DOM manipulation), Jinja2 server-side templating |
+| **Database** | MySQL, row-level locking (FOR UPDATE), complex SQL (CASE/WHEN, subqueries, indexing) |
+| **Auth & Security** | JWT (license key encoding), HMAC/SHA-256 webhook verification, CSRF tokens, CSP headers, VPN/proxy detection, secure cookies/Flask sessions, DPAPI (Windows credential decryption) |
 | **Payments** | NowPayments (crypto gateway) |
-| **Integrations** | Steam Web API, Steam Client (Chrome DevTools Protocol automation) |
-| **Infra** | 3x Linux VPS, systemd process management, .env secret management |
+| **Integrations** | Steam Web API (account validation), Steam Client via Chrome DevTools Protocol (login/token injection automation) |
+| **Infra** | 3x Linux VPS, systemd process management, .env secret management, Git/GitHub |
 
 </details>
 

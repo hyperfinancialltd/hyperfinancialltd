@@ -8,6 +8,12 @@
 
 </div>
 
+Grew up writing game cheats, injectors, kernel drivers, memory hacks, SDK dumpers, all in C/C++ and Rust. Spending years breaking software apart taught me how things actually work beneath the surface: memory layout, binary internals, OS primitives. That foundation now drives how I architect and secure production systems.
+
+The shift from reversing to shipping SaaS, marketplaces, and e-commerce platforms wasn't a pivot, it was a natural progression. Same obsession with understanding complex systems end-to-end, just pointed at building instead of breaking.
+
+Pursuing a Master's degree (expected 2027). Currently looking for a full engineering role on a team that builds, reviews, and ships at scale.
+
 ---
 
 ### 🔧 Tech Stack

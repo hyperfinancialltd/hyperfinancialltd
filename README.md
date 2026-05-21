@@ -120,6 +120,10 @@ Pursuing a Master's degree (expected 2027). Currently looking for a full enginee
 **Reverse Engineering & Software Protection**
 
 ![IDA Pro](https://img.shields.io/badge/-IDA_Pro-4B0082?style=flat-square&logoColor=white)
+![x64dbg](https://img.shields.io/badge/-x64dbg-1C1C1C?style=flat-square&logoColor=white)
+![dnSpy](https://img.shields.io/badge/-dnSpy-512BD4?style=flat-square&logoColor=white)
+![Process Hacker](https://img.shields.io/badge/-Process_Hacker-FF6600?style=flat-square&logoColor=white)
+![HxD](https://img.shields.io/badge/-HxD_Hex_Editor-2B579A?style=flat-square&logoColor=white)
 ![Themida](https://img.shields.io/badge/-Themida-CC0000?style=flat-square&logoColor=white)
 ![VMProtect](https://img.shields.io/badge/-VMProtect-1A1A2E?style=flat-square&logoColor=white)
 

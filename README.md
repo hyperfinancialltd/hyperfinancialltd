@@ -105,6 +105,7 @@
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![egui/eframe](https://img.shields.io/badge/-egui/eframe-1E1E2E?style=flat-square&logoColor=white)
+![ImGui](https://img.shields.io/badge/-Dear_ImGui-199946?style=flat-square&logoColor=white)
 ![Win32 API](https://img.shields.io/badge/-Win32_API/DPAPI-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![FFI](https://img.shields.io/badge/-FFI/unsafe_Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
